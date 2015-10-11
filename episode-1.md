@@ -12,9 +12,15 @@ What have we been up to:
   * Setting up RFCPodcast.com
 
 * John
+  * Android Development
+  * Career Videos
+  * Health
 
 Why this podcast
 * What's the aim
 * How we came up with the concept
 * Why it's important to stay connected
 * Where is your career going?
+
+What are you reading?
+* Learning Java by Building Android Games by John Horton (http://amzn.to/1OsoRHZ).
