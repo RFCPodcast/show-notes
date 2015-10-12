@@ -23,4 +23,5 @@ Why this podcast
 * Where is your career going?
 
 What are you reading?
+* Share, Retweet, Repeat: Get Your Message Read and Spread by John Hlinko (http://amzn.to/1N7UbZk).
 * Learning Java by Building Android Games by John Horton (http://amzn.to/1OsoRHZ).
