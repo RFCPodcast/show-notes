@@ -12,7 +12,7 @@ What have we been up to:
   * Setting up RFCPodcast.com
 
 * John
-  * Android Development
+  * Install Ninjas
   * Career Videos
   * Health
 
