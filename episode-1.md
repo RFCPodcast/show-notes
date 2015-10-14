@@ -23,11 +23,11 @@ Why this podcast
 * Where is your career going?
 
 Related Reading from Chris
-* (Joel on Software - Joel Spolsky[http://amzn.to/1Ra0g8d]
+* [Joel on Software - Joel Spolsky](http://amzn.to/1Ra0g8d)
   * Fog Creek & Stack Overflow 
-* (Being Geek - Michael Lopp)[http://amzn.to/1k3DrZL]
+* [Being Geek - Michael Lopp](http://amzn.to/1k3DrZL)
   * Rands in Repose blog
-* (The Clean Coder - Robert C. Martin)[http://amzn.to/1k3DBAi]
+* [The Clean Coder - Robert C. Martin](http://amzn.to/1k3DBAi)
   * Co-Author of the Agile Manifesto and wrote the Clean Code
 
 What are you reading?
