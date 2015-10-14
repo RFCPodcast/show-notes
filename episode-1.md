@@ -22,6 +22,14 @@ Why this podcast
 * Why it's important to stay connected
 * Where is your career going?
 
+Related Reading from Chris
+* (Joel on Software - Joel Spolsky[http://amzn.to/1Ra0g8d]
+  * Fog Creek & Stack Overflow 
+* (Being Geek - Michael Lopp)[http://amzn.to/1k3DrZL]
+  * Rands in Repose blog
+* (The Clean Coder - Robert C. Martin)[http://amzn.to/1k3DBAi]
+  * Co-Author of the Agile Manifesto and wrote the Clean Code
+
 What are you reading?
 * Share, Retweet, Repeat: Get Your Message Read and Spread by John Hlinko (http://amzn.to/1N7UbZk).
 * Learning Java by Building Android Games by John Horton (http://amzn.to/1OsoRHZ).
