@@ -18,6 +18,7 @@ What have we been up to:
 
 Why this podcast
 * What's the aim
+* 99% of the time you have a career, not a home run
 * How we came up with the concept
 * Why it's important to stay connected
 * Where is your career going?
