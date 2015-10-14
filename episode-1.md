@@ -8,7 +8,6 @@ What have we been up to:
 * Chris
   * Working on updates to the EDD Software Licensing
   * Post Promoter Pro 2.3 roadmapping
-  * Moving!
   * Setting up RFCPodcast.com
 
 * John
