@@ -13,9 +13,9 @@ What have we been up to:
   * Post Promoter Pro 2.3 -  UI
 
 * John
-  * Install Ninjas
-  * Career Videos
-  * Health
+  * Install Ninjas Promotion
+  * Career Videos - Maybe a podcast?
+  * Reaper
 
 Interview with Pippin
 
@@ -31,4 +31,4 @@ Interview with Pippin
 What are you reading?
 
 * Chris - Still reading Share, Retweet, Repeat: Get Your Message Read and Spread by John Hlinko (http://amzn.to/1N7UbZk).
-* Learning Java by Building Android Games by John Horton (http://amzn.to/1OsoRHZ).
+* John - Web Scraping with Python - Ryan Mitchell (http://amzn.to/1LC23Qd).
