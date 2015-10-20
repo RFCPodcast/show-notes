@@ -1,7 +1,7 @@
 Introduction
 
 * Introduce Pippin (or introduce himself)
-  * Founding developer of Easy Digital Downloads, Restrict Content Pro, author at PippinsPlugins.com
+  * Founding developer of Easy Digital Downloads, Restrict Content Pro, AffiliateWP, author at PippinsPlugins.com
   * WordPress plugin review team
 
 What have we been up to:
@@ -24,6 +24,7 @@ Interview with Pippin
 * When did you realize it was a 'full time gig'
 * Biggest challenge when it was just you working on it (still open source but no dedicated team)
 * Growing your team through Open Source
+* Enter - AffiliateWP
 * Advice for the bootstrapped side project?
 * Ways to not burn out on the side project?
 
