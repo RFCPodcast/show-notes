@@ -13,9 +13,9 @@ What have we been up to:
   * Post Promoter Pro 2.3 -  UI
 
 * John
-  * Install Ninjas Promotion
-  * Podcasting
   * Reaper
+  * Podcasting
+  * Install Ninjas Promotion
 
 Interview with Pippin
 
@@ -27,6 +27,7 @@ Interview with Pippin
 * Enter - AffiliateWP
 * Advice for the bootstrapped side project?
 * Ways to not burn out on the side project?
+* What would you say you are most proud of development journey?
 
 What are you reading?
 
