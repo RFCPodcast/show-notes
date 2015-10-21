@@ -14,7 +14,7 @@ What have we been up to:
 
 * John
   * Install Ninjas Promotion
-  * Career Videos - Maybe a podcast?
+  * Podcasting
   * Reaper
 
 Interview with Pippin
