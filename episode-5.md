@@ -2,7 +2,7 @@ Introduction
 
 Introduction
 
-	* John
+* John
 
 What have we been up to:
 
