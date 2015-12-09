@@ -1,7 +1,5 @@
 Introduction
 
-Introduction
-
 * John
 
 What have we been up to:
