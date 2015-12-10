@@ -24,6 +24,6 @@ Learning as delevopers
 
 What are you reading?:
 
-* Colyn - 
+* Colyn - Murry Rothbard - Man, Economy, and State (http://amzn.to/1jPoiKP)
 * Chris - What If? - XKCD (http://amzn.to/1OSgt3S)
 * John - Certified Ethical Hacker Version 8 Study Guide by Sean-Philip Oriyano (http://amzn.to/1TyCNPa)
